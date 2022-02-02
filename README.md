@@ -1,0 +1,2 @@
+# shingeki_IMEdectionary_maker
+進撃の巨人のセリフをまとめたIME辞書を作ったプログラムまとめ
